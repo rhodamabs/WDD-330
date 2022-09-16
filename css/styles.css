@@ -896,7 +896,9 @@ progress {
   .col-sm {
     flex: 1 0 0%;
   }
-
+ #footertext {
+  font-size: 22px;
+ }
   .row-cols-sm-auto > * {
     flex: 0 0 auto;
     width: auto;
